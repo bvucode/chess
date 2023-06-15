@@ -1,4 +1,4 @@
-from chessengine import ChessEngine
+from src.chessengine import ChessEngine
 print("\x1b[2J", end = "")
 flag = 0
 while True:
