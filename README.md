@@ -1,3 +1,3 @@
 # chess
 
-chess cli in python
+chess cli
