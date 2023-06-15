@@ -4,7 +4,7 @@ chess cli in python
 
 chess with computer
 
-  a b c d e f g h  
+   a b c d e f g h  
 
 8 R N B Q K B N R 8
 
@@ -22,6 +22,6 @@ chess with computer
 
 1 R N B Q K B N R 1
 
-  a b c d e f g h  
+   a b c d e f g h  
 
 It's your move. Type row and column like e3. 
