@@ -1,3 +1,3 @@
 # chess
 
-chess cli
+chess cli (not completed)
